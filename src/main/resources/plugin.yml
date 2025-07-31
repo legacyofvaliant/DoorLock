@@ -1,6 +1,6 @@
 name: DoorLock
 version: '${project.version}'
-main: net.nutchi.doorlock.DoorLock
+main: com.github.e2318501.doorlock.DoorLock
 api-version: '1.19'
 commands:
   doorlock:

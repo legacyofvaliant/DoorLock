@@ -1,4 +1,4 @@
-package net.nutchi.doorlock;
+package com.github.e2318501.doorlock;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

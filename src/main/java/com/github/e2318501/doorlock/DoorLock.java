@@ -1,8 +1,8 @@
-package net.nutchi.doorlock;
+package com.github.e2318501.doorlock;
 
 import lombok.Getter;
-import net.nutchi.doorlock.listener.BlockListener;
-import net.nutchi.doorlock.listener.PlayerListener;
+import com.github.e2318501.doorlock.listener.BlockListener;
+import com.github.e2318501.doorlock.listener.PlayerListener;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 import org.bukkit.command.Command;

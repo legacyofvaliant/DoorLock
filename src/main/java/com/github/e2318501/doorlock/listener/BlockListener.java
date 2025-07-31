@@ -1,7 +1,7 @@
-package net.nutchi.doorlock.listener;
+package com.github.e2318501.doorlock.listener;
 
 import lombok.RequiredArgsConstructor;
-import net.nutchi.doorlock.DoorLock;
+import com.github.e2318501.doorlock.DoorLock;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.BlockBreakEvent;
